@@ -40,6 +40,6 @@ Real music streaming.
 
 Better animations.
 
-Contributing
+# Contributing
 
 Fork and submit a pull request.
