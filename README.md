@@ -12,7 +12,7 @@ Responsive Design: Works on all devices.
 
 # Technologies
 
-HTML, CSS, JavaScript
+HTML, CSS.
 
 FontAwesome, Google Fonts
 
